@@ -1,3 +1,3 @@
 # filmhub
 
-A new Flutter project.
+A movie application to share and download films.
